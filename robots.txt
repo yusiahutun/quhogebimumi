@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://quhogebimumi.pages.dev/sitemap.xml
